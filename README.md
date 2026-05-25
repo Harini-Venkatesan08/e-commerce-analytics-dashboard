@@ -204,7 +204,7 @@ to gain insights from the data.
 
 # 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
